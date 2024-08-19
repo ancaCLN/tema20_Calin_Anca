@@ -1,1 +1,2 @@
 Fisier fara text
+Al doilea commit pe branch-ul dezvoltare.
